@@ -34,6 +34,9 @@ namespace Sandbox2.Test
             raiser.Click -= handler;
             raiser.OnClick();
 
+
+            
+
         }
 
 

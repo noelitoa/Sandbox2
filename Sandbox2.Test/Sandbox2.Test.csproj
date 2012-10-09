@@ -44,7 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AnonoymousTest.cs" />
+    <Compile Include="DelegatesTest.cs" />
     <Compile Include="ExtensionTest.cs" />
+    <Compile Include="FakeEventTest.cs" />
+    <Compile Include="LongHandEventRaiserTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
